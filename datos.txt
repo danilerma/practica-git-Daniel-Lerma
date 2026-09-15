@@ -1,2 +1,3 @@
 Practica de Git y GitHub
 Este Archivo fue modificado desde GitHub
+Este archivo fue modificado desde el repositorio local
